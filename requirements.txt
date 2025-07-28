@@ -4,3 +4,7 @@ botbuilder-core
 botbuilder-schema
 python-dotenv
 pyodbc
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
