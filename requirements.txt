@@ -1,0 +1,6 @@
+flask
+aiohttp
+botbuilder-core
+botbuilder-schema
+python-dotenv
+pyodbc
